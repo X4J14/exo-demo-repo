@@ -1,0 +1,10 @@
+(
+	:exo-version 1.0
+	:name "Exo demo repository"
+	:repository (
+		:secure nil
+		:sources (
+			:codeberg "x4j14/exo-demo-repo" :branch "prime"
+		)
+	)
+)

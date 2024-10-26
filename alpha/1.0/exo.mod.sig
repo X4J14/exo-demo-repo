@@ -1,0 +1,6 @@
+untrusted comment: verify with key.pub
+RWTVUUc2t+JbvX8YXGFqgBNoZz4BR6zvj5bs73KH53Gs4s5S/a376BqZU8S6iYYdkBVWGVxKZ3IRetol/JwqknJnLqfn1crIkgQ=
+3e42e5c0c97fbb8a8c7e01b5ee4801ae99014c47 exo.mod
+78c23bd70f57c32458dbb750c7d0fda6ac2dddab src/alpha.lisp
+4c1399b09d42069396d60db8279b8d1b36bff531 src/beta.lisp
+d060dd1fac2ffd6baf6e9f69694175f348884764 src/test/gamma.lisp
