@@ -4,7 +4,7 @@
 	:module (
 		:id :alpha
 		:version "1.0"
-		:run "alpha"
+		:run :alpha
 		:use (:cl)
 		:dependencies (
 			:omega "f14"
